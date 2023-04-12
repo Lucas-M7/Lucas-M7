@@ -1,7 +1,7 @@
 ### Olá, eu sou Lucas 👋
 
 - 🔭 Atualmente não trabalho com nada ainda, mas pretendo trabalhar com front-end
-- 🌱 Estou estudando Javascrip, depois vou estudar: Typescript, Bootstrap, React.JS e Saas
+- 🌱 Estou estudando Javascript, depois vou estudar: Typescript, Bootstrap, React.JS e Saas
 - ✉️ Email para contato: Lucas015x@gmail.com
 - 👯 Estou procurando colaborar com ajudas em sites
 - 🤔 Estou à procura de ajuda com Javascript
