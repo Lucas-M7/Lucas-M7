@@ -4,7 +4,6 @@
 - 🌱 Estou estudando Javascript, depois vou estudar: Typescript, Bootstrap, React.JS, Saas, Angular, Node.JS dentre outras tecnologias
 - ✉️ Email para contato: Lucas015x@gmail.com
 - 🤔 Estou à procura de ajuda com Javascript
-- 👦 Pronomes: Ele/Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-M7&show_icons=true&theme=dark)
 
