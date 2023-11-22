@@ -1,7 +1,7 @@
 ### Olá, eu sou Lucas 👋
 
 - 🔭 Por hora estou focado no Front-End, mas pretendo estudar Back-End também para seguir carreira em uma das áreas ou até ser Full-Stack
-- 🌱 Estou estudando Javascript, depois vou estudar: Typescript, Bootstrap, React.JS, Saas, Angular, Node.JS dentre outras tecnologias
+- 🌱 Gosto de estudar tudo o que a programação tem para oferecer - pretendo estudar Segurança da Informação - e explorar este mundo tecnológico.
 - ✉️ Email para contato: Lucas015x@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-M7&show_icons=true&theme=dark)
