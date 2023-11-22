@@ -45,7 +45,6 @@
 <h2>Só por Curiosidade</h2>
 
 <img  align="center" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
 </div>
 <br>
 <div>
