@@ -11,7 +11,7 @@
 
 <div style="display: inline_block"><br>
 
-<h2>Soft Skills</h2>
+<h2>Hard Skills</h2>
 
 <img align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
 
@@ -23,7 +23,7 @@
 
 <img align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<img align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c#/c#-original.svg" />
 
 <h2>A Estudar</h2>
 
