@@ -1,6 +1,6 @@
 ### Olá, eu sou Lucas 👋
 
-- 🔭 Por hora estou focado no Front-End, mas pretendo estudar Back-End também para seguir carreira em uma das áreas ou até ser Full-Stack
+- 🔭 Estou focado no Back-End para seguir carreira ou até ser Full-Stack
 - 🌱 Gosto de estudar tudo o que a programação tem para oferecer - pretendo estudar Segurança da Informação - e explorar este mundo tecnológico.
 - ✉️ Email para contato: Lucas015x@gmail.com
 
