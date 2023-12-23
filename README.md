@@ -22,7 +22,6 @@
 <h2>Estudando</h2>
 
 <img align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="center" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 <br>
 <div>
