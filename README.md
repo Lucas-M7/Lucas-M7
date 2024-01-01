@@ -2,7 +2,7 @@
 
 [![LinKedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mateus-142832286/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/llucasz77)
 
-<img align="right" src="[https://github.com/LeticiaBHB/LeticiaBHB/blob/main/_c5eaf9f5-6976-4a75-a5a7-e2e74b8dad83.jpeg](https://th.bing.com/th/id/OIG.ahiJQ2KspiFsa6_ocyU1?pid=ImgGn)" border="2" width="260px" height="260px" alt="ave de rapina de fone de ouvido, em frente a um computador" />
+<img align="right" src="[[https://github.com/LeticiaBHB/LeticiaBHB/blob/main/_c5eaf9f5-6976-4a75-a5a7-e2e74b8dad83.jpeg](https://github.com/Lucas-M7/photo01/blob/main/_11768b9c-4052-47f4-9370-d99784ab0017.jpg)](https://th.bing.com/th/id/OIG.ahiJQ2KspiFsa6_ocyU1?pid=ImgGn)" border="2" width="260px" height="260px" alt="ave de rapina de fone de ouvido, em frente a um computador" />
 <ul>
   <li>Fascinated by the world of technology and philosophy 🌌</li>
   <li>🇺🇸 I have basic English.</li>
