@@ -1,7 +1,7 @@
 ### Olá, eu sou Lucas 👋
 
 - 🔭 Estou focado no Back-End para seguir carreira ou até ser Full-Stack
-- 🌱 Gosto de estudar tudo o que a programação tem para oferecer - pretendo estudar Segurança da Informação - e explorar este mundo tecnológico.
+- 🌱 Gosto de estudar tudo o que a tecnologia tem para oferecer - pretendo estudar Segurança da Informação - e explorar este mundo tecnológico.
 - ✉️ Email para contato: Lucas015x@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-M7&show_icons=true&theme=dark)
