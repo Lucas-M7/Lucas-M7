@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeticiaBHB&theme=2077" width="700" height="200" alt="Marcador 1">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-M7&theme=2077" width="700" height="200" alt="Marcador 1">
     </td>
   </tr>
 </table>
