@@ -14,16 +14,16 @@
   <tr>
     <td>
       <a href="https://github.com/Lucas-M7/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-M7&langs_count=8&theme=onion&layout=pie" width="260" >
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-M7&langs_count=8&theme=dracula&layout=pie" width="260" >
       </a>
     </td>
     <td>
       <div style="border-radius: 8px; overflow: hidden;">
-        <img src="https://github.com/Lucas-M7/photo01/blob/main/_11768b9c-4052-47f4-9370-d99784ab0017.jpg" alt="GIF animado" width="260" height="260">
+        <img src="https://github.com/Lucas-M7/photo01/blob/main/_11768b9c-4052-47f4-9370-d99784ab0017.jpg" alt="Foto de um jovem negro ciborgue" width="260" height="260">
       </div>
     </td>
     <td>
-      <img src= "https://github.com/Lucas-M7/photo01/blob/main/_531392e0-ef2d-4737-aeda-25108dce7e7a.jpg" width="260px" height="260px" alt="astronauta com uma agua viva" >
+      <img src= "https://github.com/Lucas-M7/photo01/blob/main/_531392e0-ef2d-4737-aeda-25108dce7e7a.jpg" width="260px" height="260px" alt="Foto de um jovem negro programador" >
     </td>
   </tr>
 </table>
