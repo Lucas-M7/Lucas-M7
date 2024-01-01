@@ -15,7 +15,7 @@
   <tr>
     <td>
       <a href="https://github.com/LeticiaBHB/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-M7&langs_count=8&theme=radical&layout=pie" width="260" >
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-M7&langs_count=8&theme=dracula&layout=pie" width="260" >
       </a>
     </td>
     <td>
@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-M7&theme=2077" width="700" height="200" alt="Marcador 1">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-M7&theme=dracula" width="700" height="200" alt="Marcador 1">
     </td>
   </tr>
 </table>
