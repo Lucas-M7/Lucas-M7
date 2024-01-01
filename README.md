@@ -1,8 +1,7 @@
 ### Hello! My name is Lucas 🤖
 
 [![LinKedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mateus-142832286/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/llucasz77)
-
-<img align="right" src="[[https://github.com/Lucas-M7/photo01/blob/main/_11768b9c-4052-47f4-9370-d99784ab0017.jpg](https://github.com/Lucas-M7/photo01/blob/main/_11768b9c-4052-47f4-9370-d99784ab0017.jpg)](https://th.bing.com/th/id/OIG.ahiJQ2KspiFsa6_ocyU1?pid=ImgGn)" border="2" width="260px" height="260px" alt="ave de rapina de fone de ouvido, em frente a um computador" />
+<br>
 <ul>
   <li>Fascinated by the world of technology and philosophy 🌌</li>
   <li>🇺🇸 I have basic English.</li>
@@ -14,7 +13,7 @@
 <table style="border: 0;">
   <tr>
     <td>
-      <a href="https://github.com/LeticiaBHB/github-readme-stats">
+      <a href="https://github.com/Lucas-M7/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-M7&langs_count=8&theme=dracula&layout=pie" width="260" >
       </a>
     </td>
@@ -24,7 +23,7 @@
       </div>
     </td>
     <td>
-      <img src= "https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="260px" height="260px" alt="astronauta com uma agua viva" >
+      <img src= "https://github.com/Lucas-M7/photo01/blob/main/_531392e0-ef2d-4737-aeda-25108dce7e7a.jpg" width="260px" height="260px" alt="astronauta com uma agua viva" >
     </td>
   </tr>
 </table>
