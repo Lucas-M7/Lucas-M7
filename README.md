@@ -14,7 +14,7 @@
   <tr>
     <td>
       <a href="https://github.com/Lucas-M7/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-M7&langs_count=8&theme=dracula&layout=pie" width="260" >
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-M7&langs_count=8&theme=onion&layout=pie" width="260" >
       </a>
     </td>
     <td>
