@@ -20,7 +20,7 @@
     </td>
     <td>
       <div style="border-radius: 8px; overflow: hidden;">
-        <img src="https://github.com/LeticiaBHB/LeticiaBHB/blob/main/animation_lkj52qgx_small.gif" alt="GIF animado" width="260" height="260">
+        <img src="https://github.com/Lucas-M7/photo01/blob/main/_11768b9c-4052-47f4-9370-d99784ab0017.jpg" alt="GIF animado" width="260" height="260">
       </div>
     </td>
     <td>
