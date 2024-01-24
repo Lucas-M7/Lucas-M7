@@ -4,7 +4,7 @@
 <br>
 <ul>
   <li>Fascinated by the world of technology and philosophy 🌌</li>
-  <li>🇺🇸 I have basic English.</li> 
+  <li>🇺🇸 I have basic English.</li>
       <summary> 🚀 Curiosities:</summary>
             <ul>
               <li> 💻 Back-end development student with .NET </li>
