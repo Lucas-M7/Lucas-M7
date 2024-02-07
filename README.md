@@ -6,7 +6,7 @@
   <li>Fascinated by the world of technology and philosophy 🌌</li> 
   <li>🇺🇸 I have basic English.</li>
       <summary> 🚀 Curiosities:</summary>
-            <ul>
+            <ul> 
               <li> 💻 Back-end development student with .NET </li>
   <li> 🧑🏾‍💻 I plan to go to college for computer science or information systems</li>
 </ul> 
