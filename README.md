@@ -19,11 +19,6 @@
       </a>
     </td>
     <td>
-      <div style="border-radius: 8px; overflow: hidden;">
-        <img src="https://github.com/Lucas-M7/photo01/blob/main/_11768b9c-4052-47f4-9370-d99784ab0017.jpg" alt="Foto de um jovem negro ciborgue" width="260" height="260">
-      </div>
-    </td>
-    <td>
       <img src= "https://github.com/Lucas-M7/photo01/blob/main/_531392e0-ef2d-4737-aeda-25108dce7e7a.jpg" width="260px" height="260px" alt="Foto de um jovem negro programador" >
     </td>
   </tr>
