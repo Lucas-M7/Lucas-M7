@@ -29,7 +29,8 @@
   </tr>
 </table>
   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    <h2>Linguagens:</h2>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" / width="50px">
   </div>
 <table>
   <tr>
