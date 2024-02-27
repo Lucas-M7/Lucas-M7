@@ -11,7 +11,7 @@
   <li> 🧑🏾‍💻 I plan to go to college for computer science or information systems</li>  
 </ul>
   <br> 
-<table style="border: 0;">  
+<table style="border: 0;">
   <tr>
     <td>
       <a href="https://github.com/Lucas-M7/github-readme-stats">
