@@ -3,7 +3,7 @@
 [![LinKedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mateus-142832286/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/llucasz77)
 <br>
 <ul>
-  <li>Fascinated by the world of technology and philosophy 🌌 </li>  
+  <li>Fascinated by the world of technology and philosophy 🌌 </li>
   <li>🇺🇸 I have basic English.</li>
       <summary> 🚀 Curiosities:</summary>
             <ul> 
