@@ -6,7 +6,7 @@
 <ul> 💫 I have a dream of actively collaborating in the world of computing.</ul>
 <details>
   <summary> 👨‍💻 More about me</summary>
-  <ul>🫡 I'm 18 years old and I'm currently studying programming every day through articles, youtube, documentation and the platform where I do the course and doing projects. At the same time, I enjoy areas such as philosophy and physics.</ul>
+  <ul>🫡 I'm 19 years old and I'm currently studying programming every day through articles, youtube, documentation and the platform where I do the course and doing projects. At the same time, I enjoy areas such as philosophy and physics.</ul>
 </details>
 <a href="https://www.instagram.com/llucasz77/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/lucas-mateus-142832286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
