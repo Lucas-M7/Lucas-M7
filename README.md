@@ -15,7 +15,7 @@
 - 🌱 Meu ponto forte atualmente é a linguagem C# e suas ferramentas, como ASP.NET Core, ASP.NET Identity para a criação de API's seguindo a arquitetura RESTful junto com o SQL Server **(mais detalhes no currículo)**. Mas já experimentei: Java, JavaScript, MongoDB, PostgreSQL, bem pouco de C++ e algumas pequenas explorações no Linux. Pretendo estudar React e me aprofundar um pouco mais no Front-End para que um dia eu possa ser um Desenvolvedor Full-Stack.
 - 📫 Como me encontrar:
     - Email: Lucas015x@gmail.com
-    - <a href="https://www.linkedin.com/in/lucas-mateus-142832286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    - <a href="https://www.linkedin.com/in/lucas-mateus-142832286/ target=_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - 😄 Pronomes: **[Ele/Dele, Ela/Dela, etc.]**
 
 ---
