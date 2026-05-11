@@ -1,51 +1,51 @@
-<p align="center">
-  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/16016.png" alt="Banner do Perfil" width="800"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=>_+Initialize_Lucas_Mateus.exe;>_Backend_Developer;>_System_Status:_Online" alt="Typing SVG" />
+</div>
 
-<h1 align="center">Olá, eu sou Lucas Mateus! 👋</h1>
-<p align="center">
-  <em>Desenvolvedor Back-End | Estudante de Ciência da Computação</em>
-</p>
+<br>
 
----
+### >_ user_info.json
 
-### 👨‍💻 Sobre Mim
+```json
+{
+  "name": "Lucas Mateus",
+  "role": "Desenvolvedor Back-End | Estudante de Ciência da Computação",
+  "current_focus": "Criando APIs RESTful com C# e .NET Core",
+  "core_skills": [
+    "ASP.NET Identity", 
+    "SQL Server",
+    "PostgreSQL",
+    "Software Architecture",
+    "Linux"
+  ],
+  "exploring": [
+    "Java",
+    "C++", 
+    "MongoDB",
+    "TypeScript/NodeJS",
+    "Docker"
+  ],
+  "mission": "Consolidar o Back-End e dominar o Front-End para Full-Stack."
+}
+```
+### >_ tech_stack.sh
 
-- 🔭 Atualmente estou apenas estudando e desenvolvendo projetos pessoais.
-- 🌱 Meu ponto forte atualmente é a linguagem C# e suas ferramentas, como ASP.NET Core, ASP.NET Identity para a criação de API's seguindo a arquitetura RESTful junto com o SQL Server **(mais detalhes no currículo)**. Mas já experimentei: Java, JavaScript, MongoDB, PostgreSQL, bem pouco de C++ e algumas pequenas explorações no Linux. Pretendo estudar React e me aprofundar um pouco mais no Front-End para que um dia eu possa ser um Desenvolvedor Full-Stack.
-- 📫 Como me encontrar:
-    - <a href="https://www.linkedin.com/in/lucas-mateus-142832286/ target=_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
 
----
+### >_ ping_contact.sh
 
-### 🛠️ Minhas Ferramentas e Tecnologias
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/ width=50>
-<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg"/ width=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/ width=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/ width=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" / width=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" / width=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" / width=50>
-<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/intellij/intellij-original.svg" / width=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" / width=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" / width=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" / width=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" / width=50>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" / width=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" / width=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" / width=50>
-  
-  </p>
-
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-M7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-M7&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
----
+<div align="center">
+  <a href="mailto:lucas015x@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-mateus-142832286/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
