@@ -12,11 +12,14 @@
   "role": "Desenvolvedor Back-End | Estudante de Ciência da Computação",
   "current_focus": "Criando APIs RESTful com C# e .NET Core",
   "core_skills": [
+    "C#",
     "ASP.NET Identity", 
     "SQL Server",
     "PostgreSQL",
     "Software Architecture",
-    "Linux"
+    "Linux",
+    "Git",
+    "Postman"
   ],
   "exploring": [
     "Java",
