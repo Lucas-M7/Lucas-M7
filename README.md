@@ -23,7 +23,7 @@
     "Docker"
   ],
   "mission": "Me especializar em Back-End",
-  "interest": "Tenho interesse em atuar na área de Cibersegurança futuramente"
+  "interest": "Tenho interesse em atuar na área de Cibersegurança futuramente, aprender vários idiomas e conhecer novos lugares"
 }
 ```
 ### >_ tech_stack.sh
