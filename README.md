@@ -19,16 +19,11 @@
     "Software Architecture",
     "Linux",
     "Git",
-    "Postman"
-  ],
-  "exploring": [
-    "Java",
-    "C++", 
-    "MongoDB",
-    "TypeScript/NodeJS",
+    "Postman",
     "Docker"
   ],
-  "mission": "Consolidar o Back-End e dominar o Front-End para Full-Stack."
+  "mission": "Me especializar em Back-End",
+  "interest": "Tenho interesse em atuar na área de Cibersegurança futuramente"
 }
 ```
 ### >_ tech_stack.sh
